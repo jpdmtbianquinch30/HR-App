@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jeanp\\source\\repos\\RH-App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\Services\\auth.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RH-App\\Services\\auth.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA39FA7D-00E6-461D-AA8E-503B4EB6B2CC}|RH-App\\RH-App.csproj|c:\\users\\jeanp\\source\\repos\\rh-app\\rh-app\\rh-app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EA39FA7D-00E6-461D-AA8E-503B4EB6B2CC}|RH-App\\RH-App.csproj|solutionrelative:rh-app\\rh-app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RH-App\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\Services\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RH-App\\Services\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RH-App\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RH-App\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "auth.service.ts",
+              "DocumentMoniker": "C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\Services\\auth.service.ts",
+              "RelativeDocumentMoniker": "RH-App\\Services\\auth.service.ts",
+              "ToolTip": "C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\Services\\auth.service.ts",
+              "RelativeToolTip": "RH-App\\Services\\auth.service.ts",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-26T19:53:16.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "RH-App\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "RH-App\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwF8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T19:52:27.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "RH-App\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\Services\\AuthService.cs",
+              "RelativeToolTip": "RH-App\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T19:51:38.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RH-App\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "RH-App\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T19:50:51.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\Models\\User.cs",
+              "RelativeDocumentMoniker": "RH-App\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\Models\\User.cs",
+              "RelativeToolTip": "RH-App\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T19:50:16.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RH-App.csproj",
+              "DocumentMoniker": "C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\RH-App.csproj",
+              "RelativeDocumentMoniker": "RH-App\\RH-App.csproj",
+              "ToolTip": "C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\RH-App.csproj",
+              "RelativeToolTip": "RH-App\\RH-App.csproj",
+              "ViewState": "AgIAAB0AAAAQ+B+A/wEwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-26T19:16:47.631Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

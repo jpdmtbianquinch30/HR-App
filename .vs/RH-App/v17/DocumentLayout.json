@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jeanp\\source\\repos\\RH-App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\backend\\Data\\DbInitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RH-App\\backend\\Data\\DbInitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\backend\\Services\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RH-App\\backend\\Services\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\backend\\Services\\auth.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RH-App\\backend\\Services\\auth.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RH-App\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RH-App\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\frontend\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RH-App\\frontend\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\backend\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RH-App\\backend\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\frontend\\src\\app\\components\\employee-dashboard\\employee-dashboard.component.ts||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RH-App\\frontend\\src\\app\\components\\employee-dashboard\\employee-dashboard.component.ts||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\frontend\\src\\app\\components\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RH-App\\frontend\\src\\app\\components\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\frontend\\src\\app\\interceptors\\jwt.interceptor.ts||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RH-App\\frontend\\src\\app\\interceptors\\jwt.interceptor.ts||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\frontend\\src\\app\\guards\\auth.guard.ts||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RH-App\\frontend\\src\\app\\guards\\auth.guard.ts||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\backend\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RH-App\\backend\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\backend\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RH-App\\backend\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\backend\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "RH-App\\backend\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\backend\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "RH-App\\backend\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T20:21:19.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\Program.cs",
+              "RelativeDocumentMoniker": "RH-App\\Program.cs",
+              "ToolTip": "C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\Program.cs",
+              "RelativeToolTip": "RH-App\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T20:15:33.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\docker-compose.yml",
+              "RelativeDocumentMoniker": "RH-App\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\docker-compose.yml",
+              "RelativeToolTip": "RH-App\\docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-08-26T20:14:52.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\backend\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "RH-App\\backend\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\backend\\Services\\AuthService.cs",
+              "RelativeToolTip": "RH-App\\backend\\Services\\AuthService.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T20:10:07.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "auth.service.ts",
+              "DocumentMoniker": "C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\backend\\Services\\auth.service.ts",
+              "RelativeDocumentMoniker": "RH-App\\backend\\Services\\auth.service.ts",
+              "ToolTip": "C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\backend\\Services\\auth.service.ts",
+              "RelativeToolTip": "RH-App\\backend\\Services\\auth.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-26T20:10:31.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\frontend\\Dockerfile",
+              "RelativeDocumentMoniker": "RH-App\\frontend\\Dockerfile",
+              "ToolTip": "C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\frontend\\Dockerfile",
+              "RelativeToolTip": "RH-App\\frontend\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-26T20:14:43.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\backend\\Dockerfile",
+              "RelativeDocumentMoniker": "RH-App\\backend\\Dockerfile",
+              "ToolTip": "C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\backend\\Dockerfile",
+              "RelativeToolTip": "RH-App\\backend\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-26T20:14:33.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "employee-dashboard.component.ts",
+              "DocumentMoniker": "C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\frontend\\src\\app\\components\\employee-dashboard\\employee-dashboard.component.ts",
+              "RelativeDocumentMoniker": "RH-App\\frontend\\src\\app\\components\\employee-dashboard\\employee-dashboard.component.ts",
+              "ToolTip": "C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\frontend\\src\\app\\components\\employee-dashboard\\employee-dashboard.component.ts",
+              "RelativeToolTip": "RH-App\\frontend\\src\\app\\components\\employee-dashboard\\employee-dashboard.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-26T20:13:46.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "login.component.ts",
+              "DocumentMoniker": "C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\frontend\\src\\app\\components\\login\\login.component.ts",
+              "RelativeDocumentMoniker": "RH-App\\frontend\\src\\app\\components\\login\\login.component.ts",
+              "ToolTip": "C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\frontend\\src\\app\\components\\login\\login.component.ts",
+              "RelativeToolTip": "RH-App\\frontend\\src\\app\\components\\login\\login.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-26T20:13:08.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "jwt.interceptor.ts",
+              "DocumentMoniker": "C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\frontend\\src\\app\\interceptors\\jwt.interceptor.ts",
+              "RelativeDocumentMoniker": "RH-App\\frontend\\src\\app\\interceptors\\jwt.interceptor.ts",
+              "ToolTip": "C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\frontend\\src\\app\\interceptors\\jwt.interceptor.ts",
+              "RelativeToolTip": "RH-App\\frontend\\src\\app\\interceptors\\jwt.interceptor.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-26T20:12:02.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "auth.guard.ts",
+              "DocumentMoniker": "C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\frontend\\src\\app\\guards\\auth.guard.ts",
+              "RelativeDocumentMoniker": "RH-App\\frontend\\src\\app\\guards\\auth.guard.ts",
+              "ToolTip": "C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\frontend\\src\\app\\guards\\auth.guard.ts",
+              "RelativeToolTip": "RH-App\\frontend\\src\\app\\guards\\auth.guard.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-08-26T20:11:17.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\backend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "RH-App\\backend\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\backend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "RH-App\\backend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T20:10:18.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\backend\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RH-App\\backend\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\jeanp\\source\\repos\\RH-App\\RH-App\\backend\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "RH-App\\backend\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T20:09:53.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

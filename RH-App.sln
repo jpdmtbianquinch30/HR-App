@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RH-App", "RH-App\RH-App.csproj", "{EA39FA7D-00E6-461D-AA8E-503B4EB6B2CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA39FA7D-00E6-461D-AA8E-503B4EB6B2CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA39FA7D-00E6-461D-AA8E-503B4EB6B2CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA39FA7D-00E6-461D-AA8E-503B4EB6B2CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA39FA7D-00E6-461D-AA8E-503B4EB6B2CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C28D137C-194B-4CA5-A88C-36D29DF146FA}
+	EndGlobalSection
+EndGlobal

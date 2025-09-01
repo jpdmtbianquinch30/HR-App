@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\RH-App",
+    "\\RH-App\\backend",
+    "\\RH-App\\backend\\Data",
+    "\\RH-App\\frontend",
+    "\\RH-App\\frontend\\src\\app",
+    "\\RH-App\\frontend\\src\\app\\components",
+    "\\RH-App\\frontend\\src\\app\\components\\employee-dashboard",
+    "\\RH-App\\frontend\\src\\app\\components\\login"
+  ],
+  "SelectedNode": "\\RH-App\\backend\\Data\\DbInitializer.cs",
+  "PreviewInSolutionExplorer": false
+}
