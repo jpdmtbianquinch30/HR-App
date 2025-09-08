@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "7taggrrKzIhfEvwoPnYRIZ4k5KtYWbTXrB01NCfRJ34=",
+  "Source": "RH-App",
+  "BasePath": "_content/RH-App",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

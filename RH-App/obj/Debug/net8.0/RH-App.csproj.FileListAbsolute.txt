@@ -1,7 +1,0 @@
-C:\Users\jeanp\source\repos\RH-App\RH-App\obj\Debug\net8.0\RH-App.csproj.AssemblyReference.cache
-C:\Users\jeanp\source\repos\RH-App\RH-App\obj\Debug\net8.0\RH-App.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\jeanp\source\repos\RH-App\RH-App\obj\Debug\net8.0\RH-App.AssemblyInfoInputs.cache
-C:\Users\jeanp\source\repos\RH-App\RH-App\obj\Debug\net8.0\RH-App.AssemblyInfo.cs
-C:\Users\jeanp\source\repos\RH-App\RH-App\obj\Debug\net8.0\RH-App.csproj.CoreCompileInputs.cache
-C:\Users\jeanp\source\repos\RH-App\RH-App\obj\Debug\net8.0\RH-App.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\jeanp\source\repos\RH-App\RH-App\obj\Debug\net8.0\RH-App.MvcApplicationPartsAssemblyInfo.cache
