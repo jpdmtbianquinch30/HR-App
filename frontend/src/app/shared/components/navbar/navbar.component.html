@@ -1,0 +1,28 @@
+<nav class="navbar">
+  <div class="container">
+    <div class="navbar-brand">
+      <a routerLink="/">Task Management System</a>
+    </div>
+    
+    <div class="navbar-menu">
+      <div class="navbar-start">
+        <a *ngIf="hasRole('ADMIN')" routerLink="/admin/dashboard" class="navbar-item">Dashboard Admin</a>
+        <a *ngIf="hasRole('MANAGER')" routerLink="/manager/dashboard" class="navbar-item">Dashboard Manager</a>
+        <a *ngIf="hasRole('EMPLOYE')" routerLink="/employee/dashboard" class="navbar-item">Mes Tâches</a>
+        
+        <a *ngIf="hasRole('ADMIN')" routerLink="/admin/departments" class="navbar-item">Départements</a>
+        <a *ngIf="hasRole('ADMIN')" routerLink="/admin/employees" class="navbar-item">Employés</a>
+        <a *ngIf="hasRole('ADMIN') || hasRole('MANAGER')" routerLink="/admin/tasks" class="navbar-item">Tâches</a>
+      </div>
+      
+      <div class="navbar-end">
+        <div class="navbar-item" *ngIf="currentUser">
+          <span class="user-info">
+            {{ userFullName }} ({{ userRole }})
+          </span>
+          <button class="btn btn-danger ml-10" (click)="logout()">Déconnexion</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>

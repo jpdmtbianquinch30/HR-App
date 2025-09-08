@@ -1,0 +1,59 @@
+<div class="login-container">
+  <div class="login-card">
+    <h2 class="text-center">Connexion</h2>
+    
+    <form [formGroup]="loginForm" (ngSubmit)="onSubmit()">
+      <div class="form-group">
+        <label for="email" class="form-label">Email</label>
+        <input 
+          type="email" 
+          id="email" 
+          formControlName="email" 
+          class="form-control" 
+          [class.is-invalid]="submitted && f['email'].errors"
+          placeholder="Entrez votre email">
+        @if (submitted && f['email'].errors) {
+          <div class="invalid-feedback">
+            @if (f['email'].errors['required']) {
+              <div>Email requis</div>
+            }
+            @if (f['email'].errors['email']) {
+              <div>Email invalide</div>
+            }
+          </div>
+        }
+      </div>
+
+      <div class="form-group">
+        <label for="password" class="form-label">Mot de passe</label>
+        <input 
+          type="password" 
+          id="password" 
+          formControlName="password" 
+          class="form-control" 
+          [class.is-invalid]="submitted && f['password'].errors"
+          placeholder="Entrez votre mot de passe">
+        @if (submitted && f['password'].errors) {
+          <div class="invalid-feedback">
+            @if (f['password'].errors['required']) {
+              <div>Mot de passe requis</div>
+            }
+          </div>
+        }
+      </div>
+
+      @if (error) {
+        <div class="alert alert-error">
+          {{ error }}
+        </div>
+      }
+
+      <button type="submit" class="btn btn-primary btn-block" [disabled]="loading">
+        @if (loading) {
+          <span class="spinner-border spinner-border-sm"></span>
+        }
+        {{ loading ? 'Connexion...' : 'Se connecter' }}
+      </button>
+    </form>
+  </div>
+</div>

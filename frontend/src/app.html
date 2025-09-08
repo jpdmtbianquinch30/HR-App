@@ -1,0 +1,20 @@
+<div class="app-container">
+  <!-- Barre de navigation -->
+  @if (currentUser) {
+    <app-navbar></app-navbar>
+  }
+
+  <!-- Contenu principal -->
+  <div class="main-content" [class.with-navbar]="currentUser">
+    <router-outlet></router-outlet>
+  </div>
+
+  <!-- Footer optionnel -->
+  @if (currentUser) {
+    <footer class="app-footer">
+      <div class="container">
+        <p>&copy; 2024 Task Management System. Tous droits réservés.</p>
+      </div>
+    </footer>
+  }
+</div>
